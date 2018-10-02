@@ -1,7 +1,7 @@
 
 body{
 	background-color: #251147;
-
+	margin-bottom: 30px;
 }
 .planet_container{
 	background-color: #915ced;
@@ -24,13 +24,13 @@ body{
 
 }
 .planet_container table{
-	top: 10px;
-	right: 10px;
+	padding-top: 50px;
 }
 .header{
 	text-align: center;
 	color: #915ced;
 }
 .planet_container h3{
+	padding-top: 15px;
 	text-align: center;
 }
