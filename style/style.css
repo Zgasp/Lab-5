@@ -1,36 +1,36 @@
 
 body{
-	background-color: #251147;
-	margin-bottom: 30px;
+  background-color: #251147;
+  margin-bottom: 30px;
 }
 .planet_container{
-	background-color: #915ced;
-	width: 70%;
-	height: 420px;
-	
-	border: 5px;
-	
+  background-color: #915ced;
+  width: 70%;
+  height: 420px;
+  
+  border: 5px;
+  
 
-	margin: auto;
-	margin-bottom: 5px;
-	box-shadow: 10px 10px #3b1b72;
-	page-break-after: always;
+  margin: auto;
+  margin-bottom: 5px;
+  box-shadow: 10px 10px #3b1b72;
+  page-break-after: always;
 
 }
 .planet_image{
-	width: 40%;
-	float: left;
-	margin-left: 3%;
-	margin-top: 3%;
+  width: 40%;
+  float: left;
+  margin-left: 3%;
+  margin-top: 3%;
 
 }
 .planet_container table{
-	
+  
 }
 .header{
-	text-align: center;
-	color: #915ced;
+  text-align: center;
+  color: #915ced;
 }
 .planet_container h3{
-	text-align: center;
+  text-align: center;
 }
