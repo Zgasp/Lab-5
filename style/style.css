@@ -21,16 +21,16 @@ body{
 	width: 40%;
 	float: left;
 	margin-left: 3%;
+	margin-top: 3%;
 
 }
 .planet_container table{
-	padding-top: 50px;
+	
 }
 .header{
 	text-align: center;
 	color: #915ced;
 }
 .planet_container h3{
-	padding-top: 15px;
 	text-align: center;
 }
