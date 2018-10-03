@@ -28,6 +28,11 @@ body{
   padding-top: 7%;
   
 }
+.planet_container th{
+	line-height: 40px;
+	font-size: 40px;
+
+}
 .header{
   text-align: center;
   color: #915ced;
