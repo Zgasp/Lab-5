@@ -2,19 +2,19 @@
 body{
   background-color: #251147;
   margin-bottom: 30px;
+  font-family: Tahoma, Geneva, sans-serif;
+  line-height: 1.3em;
 }
 .planet_container{
   background-color: #915ced;
   width: 70%;
-  height: 420px;
-  
-  border: 5px;
-  
+
+  height: 405px;  
+
 
   margin: auto;
-  margin-bottom: 5px;
+  margin-bottom: 3%;
   box-shadow: 10px 10px #3b1b72;
-  page-break-after: always;
 
 }
 .planet_image{
@@ -25,6 +25,7 @@ body{
 
 }
 .planet_container table{
+  padding-top: 7%;
   
 }
 .header{
